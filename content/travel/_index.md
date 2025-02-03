@@ -6,7 +6,7 @@ weight: 2
 menus: "main"
 # list pages require at least one image to be displayed.
 resources:
-  - src: 7b3d5f1g9h.JPG
+  - src: 8j5k2l9m0n.jpg
     params:
       cover: true
 params:
