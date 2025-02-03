@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>蜗牛相册 on Benjamin&#39;s Gallery</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in 蜗牛相册 on Benjamin&#39;s Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>user@example.com (Your Name)</managingEditor>
+    <webMaster>user@example.com (Your Name)</webMaster>
+    <copyright>© Benjamin</copyright>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>龙门石窟</title>
+      <link>//localhost:1313/travel/longmen-grottoes/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <guid>//localhost:1313/travel/longmen-grottoes/</guid><media:content url="//localhost:1313/travel/longmen-grottoes/1d2f3g4h5k_hu12286797668974601440.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/travel/longmen-grottoes/1d2f3g4h5k_hu12286797668974601440.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>生活随手拍</title>
+      <link>//localhost:1313/life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>//localhost:1313/life/</guid><media:content url="//localhost:1313/life/20250203193920_hu9477143157913802162.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/life/20250203193920_hu9477143157913802162.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>竖板壁纸</title>
+      <link>//localhost:1313/wallpaper/%E7%AB%96%E7%89%88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>//localhost:1313/wallpaper/%E7%AB%96%E7%89%88/</guid><media:content url="//localhost:1313/wallpaper/%E7%AB%96%E7%89%88/20250203192457_hu11352570141098292378.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/wallpaper/%E7%AB%96%E7%89%88/20250203192457_hu11352570141098292378.jpg&quot; /&gt;
+          &lt;p&gt;一手机壁纸&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>横板壁纸</title>
+      <link>//localhost:1313/wallpaper/%E6%A8%AA%E6%9D%BF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>//localhost:1313/wallpaper/%E6%A8%AA%E6%9D%BF/</guid><media:content url="//localhost:1313/wallpaper/%E6%A8%AA%E6%9D%BF/0250130-FHD_hu6749844224305450915.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/wallpaper/%E6%A8%AA%E6%9D%BF/0250130-FHD_hu6749844224305450915.jpg&quot; /&gt;
+          &lt;p&gt;一些自己收藏的电脑壁纸&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>老君山</title>
+      <link>//localhost:1313/travel/laojun-mountain/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <guid>//localhost:1313/travel/laojun-mountain/</guid><media:content url="//localhost:1313/travel/laojun-mountain/3a6d9f2g5h1_hu16377902199406600085.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/travel/laojun-mountain/3a6d9f2g5h1_hu16377902199406600085.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>太白山</title>
+      <link>//localhost:1313/travel/taibai-mountain/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <guid>//localhost:1313/travel/taibai-mountain/</guid><media:content url="//localhost:1313/travel/taibai-mountain/2m6n8o4p1q_hu4628530393871118026.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/travel/taibai-mountain/2m6n8o4p1q_hu4628530393871118026.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>太白山 on Benjamin&#39;s Gallery</title>
+    <link>//localhost:1313/categories/%E5%A4%AA%E7%99%BD%E5%B1%B1/</link>
+    <description>Recent content in 太白山 on Benjamin&#39;s Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>user@example.com (Your Name)</managingEditor>
+    <webMaster>user@example.com (Your Name)</webMaster>
+    <copyright>© Benjamin</copyright>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0100</lastBuildDate><atom:link href="//localhost:1313/categories/%E5%A4%AA%E7%99%BD%E5%B1%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>太白山</title>
+      <link>//localhost:1313/travel/taibai-mountain/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <guid>//localhost:1313/travel/taibai-mountain/</guid><media:content url="//localhost:1313/travel/taibai-mountain/2m6n8o4p1q_hu4628530393871118026.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/travel/taibai-mountain/2m6n8o4p1q_hu4628530393871118026.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
